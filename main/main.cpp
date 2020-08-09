@@ -168,7 +168,7 @@ int main()
 	setlocale(LC_ALL, "ru");
 
 	MyString str("Hello");
-	MyString str2("World");
+	MyString str2("Leha");
 
 	MyString result;
 	result = str + str2;
